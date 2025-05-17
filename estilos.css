@@ -1,0 +1,23 @@
+body {
+    background-color: #c7d9f6;
+    font-family: Arial, sans-serif;
+    text-align: left;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(235, 25, 25);
+}
+/* Este es un comentario en CSS */
+p {
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+}
+#yo
+{
+    color: #922020;
+}
+img
+{
+    width: 420px;
+}
